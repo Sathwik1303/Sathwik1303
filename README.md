@@ -30,7 +30,7 @@ I am an aspiring **Computer Science & Engineering Student** (B.Tech Class of 203
 ---
 
 ### 🤝 Connect with me
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/sathwik-reddy-d-260754425?utm_source=share_via&utm_content=profile&utm_medium=member_android]
-- 📧 **Email:** [sathwikreddyd13@gmail.com]
+- 💼 **LinkedIn:** [Sathwik Reddy D](https://www.linkedin.com/in/sathwik-reddy-d-260754425)
+- 📧 **Email:** [sathwikreddyd13@gmail.com](mailto:sathwikreddyd13@gmail.com)
 
 "Consistency is the key to mastering code." 💻⚡
