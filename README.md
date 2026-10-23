@@ -29,16 +29,6 @@ I am an aspiring **Computer Science & Engineering Student** (B.Tech Class of 203
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://vercel.app" alt="Sathwik's GitHub Stats" width="400"/>
-  <br/>
-  <img src="https://herokuapp.com" alt="Sathwik's GitHub Streak" width="400"/>
-</p>
-
----
-
 ### 🤝 Connect with me
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/sathwik-reddy-d-260754425?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 - 📧 **Email:** [sathwikreddyd13@gmail.com]
