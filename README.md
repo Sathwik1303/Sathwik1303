@@ -16,15 +16,15 @@ I am an aspiring **Computer Science & Engineering Student** (B.Tech Class of 203
 
 #### 💻 Languages
 <p align="left">
-  <img src="https://githubusercontent.com" alt="cplusplus" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="python" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="c" width="40" height="40"/>
+  <img src="https://shields.io" alt="cplusplus"/> &nbsp;
+  <img src="https://shields.io" alt="python"/> &nbsp;
+  <img src="https://shields.io" alt="c"/>
 </p>
 
 #### 🛠️ Version Control & Tools
 <p align="left">
-  <img src="https://githubusercontent.com" alt="git" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="github" width="40" height="40"/>
+  <img src="https://shields.io" alt="git"/> &nbsp;
+  <img src="https://shields.io" alt="github"/>
 </p>
 
 ---
