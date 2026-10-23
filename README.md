@@ -15,22 +15,15 @@ I am an aspiring **Computer Science & Engineering Student** (B.Tech Class of 203
 ### 🛠️ Tech Stack & Tools
 
 #### 💻 Languages
-<p align="left">
-  <img src="https://shields.io" alt="cplusplus"/> &nbsp;
-  <img src="https://shields.io" alt="python"/> &nbsp;
-  <img src="https://shields.io" alt="c"/>
-</p>
+![C++](https://shields.io) ![Python](https://shields.io) ![C](https://shields.io)
 
 #### 🛠️ Version Control & Tools
-<p align="left">
-  <img src="https://shields.io" alt="git"/> &nbsp;
-  <img src="https://shields.io" alt="github"/>
-</p>
+![Git](https://shields.io) ![GitHub](https://shields.io)
 
 ---
 
 ### 🤝 Connect with me
-- 💼 **LinkedIn:** [Sathwik Reddy D](https://www.linkedin.com/in/sathwik-reddy-d-260754425)
+- 💼 **LinkedIn:** [Sathwik Reddy D](https://linkedin.com)
 - 📧 **Email:** [sathwikreddyd13@gmail.com](mailto:sathwikreddyd13@gmail.com)
 
 "Consistency is the key to mastering code." 💻⚡
